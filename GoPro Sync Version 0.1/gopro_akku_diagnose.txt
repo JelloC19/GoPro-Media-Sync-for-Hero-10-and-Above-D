@@ -1,0 +1,4 @@
+Akku-Wert nicht gefunden (weder per Bluetooth LE, Open-GoPro-HTTP noch MTP-Spalten). Vom Gerät per MTP gemeldete Spalten:
+
+Name=HERO11 Black
+Typ=Tragbares Gerät
