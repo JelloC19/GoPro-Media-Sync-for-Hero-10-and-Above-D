@@ -1,5 +1,8 @@
 
-<img width="1008" height="776" alt="Screenshot 2026-07-06 151432" src="https://github.com/user-attachments/assets/77580d53-2547-4c32-b670-16c22854513c" />
+<img width="1014" height="705" alt="Screenshot 2026-07-10 130020" src="https://github.com/user-attachments/assets/c3c4f0ef-4521-4294-94f6-8bcdffffc2b0" />
+<img width="1014" height="693" alt="Screenshot 2026-07-10 121951" src="https://github.com/user-attachments/assets/5d5ef053-9a60-4688-a11d-5fcd2a216bbe" />
+
+
 # GoPro-Media-Sync-for-Hero-10-and-Above-D
 This is what i would describe as a Pre Alpha its only Purpose is to Sync your gallery with the PC without you doing anything. 
 Just open the install file wait for Python to install and then launch via the Shortcut :D 
