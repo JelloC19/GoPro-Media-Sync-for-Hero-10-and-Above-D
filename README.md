@@ -1,6 +1,5 @@
 
-<img width="1014" height="705" alt="Screenshot 2026-07-10 130020" src="https://github.com/user-attachments/assets/c3c4f0ef-4521-4294-94f6-8bcdffffc2b0" />
-<img width="1018" height="704" alt="Screenshot 2026-07-10 130622" src="https://github.com/user-attachments/assets/a1b94813-a835-45bd-82ab-8b867e53c836" />
+<img width="600" height="337" alt="GoProSyncDemo1-ezgif com-video-to-gif-converter (3)" src="https://github.com/user-attachments/assets/d129b235-fe8d-48d2-8e65-d0cca5bd21e4" />
 
 
 # GoPro-Media-Sync-for-Hero-10-and-Above-D
